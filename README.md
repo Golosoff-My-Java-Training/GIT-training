@@ -12,3 +12,7 @@ Version control with GIT.
 	- first commit in new branch	
 	- second commit in new branch
 	
+	- merge branches
+	
+#GIT additional actions.
+	-  first commit in develop	

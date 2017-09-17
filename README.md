@@ -15,4 +15,6 @@ Version control with GIT.
 	- merge branches
 	
 #GIT additional actions.
-	-  first commit in develop	
+	-  first commit in develop
+	-  second commit in develop
+

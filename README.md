@@ -20,3 +20,4 @@ Version control with GIT.
 
 #before cherry-pic
 	- first in develop	
+	- second in develop	

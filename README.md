@@ -17,4 +17,6 @@ Version control with GIT.
 #GIT additional actions.
 	-  first commit in develop
 	-  second commit in develop
-
+	-  first commit in master
+	
+	 first commit in master

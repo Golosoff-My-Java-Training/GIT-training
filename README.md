@@ -8,3 +8,7 @@ Version control with GIT.
 	- second commit
 	- third commit
 	
+	- new brunch "develop"
+	- first commit in new brunch	
+
+	
